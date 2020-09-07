@@ -1,0 +1,12 @@
+0, 0, Header, 1, 2, 480
+1, 0, Start_track
+1, 0, Title_t, Generated Music
+1, 0, Text_t, Sample for MIDIcsv Distribution
+1, 0, Copyright_t, This file is in the public domain
+1, 0, Time_signature, 4, 2, 24, 8
+1, 0, Tempo, 500000
+1, 0, Instrument_name_t, A-01
+1, 0, End_track
+2, 0, Start_track
+START READING
+]i[ 1 ci[  ci[g 1 cig 1 cigY 1 cgY 4 cgYk 2 cgYkW 1 cYkW 2 ckW 1 kW  s   4 Y 6 YV 6 YVm 1 mV 1 V 1   s 2 si  i  ip 1 i  ig 2 g 1 gp 1 p 2 ph  p 4 pt 2 p 1   p  pr 7 r 1  1 t  tt 2 t 1   r 2  1 t 3   s 2  3 t 5  1 r 2  1 t   2 r 2 rp  p 1  1 i  ii  iii  iik 1 ikig 1 ikg  ik  ikg  kg  k    i 3 ik 2 ik_  ki_i  iki_]d  iik]_d`  iik_]`  iikd]  ikdi  idiki 4 iikdi  iikd 1 iik 4 ik  i  if  ifi 2 ifi]  iif]S  ifnia]  iii]  ii]  i]  i 2 i` 2 i  ii 1 iie  iie` 1 iie  ii  i 5 if  f 6  6 h  hi 1 i 1 ii  iig  igid  iigd` 2 iigd  idi 4 idia  idai[  ida[  dia[d 1 dida[g  digda[  igda[  igda[Y  ig[Wa 2 ga[`  ag[  [g  [   1 Y  YY  Y 1   j 4 jt 1 j 13 jl  l 1 lh 1 h    f 3  1 h 2 hd  d   2 e 2   i 2 ii  i 1 in  nii  ink  ikni 8 ini  ini]  ii]ni 11 ii]i  ii]  ii  i 3 is 1 i 2 il  i 2 i` 1 i`f 1 if`h 1 `ifqh  `ifh 1 if`kc 2 ifci 2 ifc 2 ifcg  ifcgj  gfci  igc  igc` 1 igc 1 igcY 1 igcYl  igcYlt  ilog 1 ilo  oi  i    s 1 sY  Y  Yi 2 i   1 d 7 di  dig 2 dig`  d`g 2 d`ls  d`s  d`sx 2 d`gsv 1 d`sg 2 d`s  d`  d`t  d`lt 2 d`l  d`ls  d`s 2 d`xs 1 d`s  d`sc  d`l  d`  d`s 6 d`  d`l  d`ll  d`l 1 `l 1 ` 2 `r 4 r 1  2 s  sg 4 sgl 1 sl 2 l  ls  s 2   t 1 tr 1 r  rr  r   2 t   2 r  rt 2 t    r 2   t 1 ts  ts` 1 `\ 1 `  `l 2 ` 2 `s  s  `1   1 r 4  1 r  rt  t  tt 2 t 3   r 2 rt 3 t    r  rr 1 r 1   t 1   r  rr  r  rf  f   5 i  ir  i 2 if  i  ii 1 i  ii 2 iii  iiki 2 iik]_ 11 iki]  iik 1 ik 1 i  ii  iif 2 ii  i  in  nig 17 ni 1 nig  nigc  nigic  igni  ing  ni  nik 2 nk  nkj 1 nkji 1 nik  lnii 2 ini  ni  nii 1 ii 1 iit  ii 1 i 1 ii 2 iil 2 ii 1 iil  il  ilt 1 il  i  ip 1 p  pi 2 i 2 ip  pif 1 ifpi  ifip  ipi  ipif 11 ipi  ip  p 2  3 s 2 ss 1 s 1   p  pr  p  pt  p 1   r  rt 1 t    r 5  2 t 2   r 3   t 3  6 r 2 rs  r   21 r  rt  t    f  fi  ifi 1 ifit  ifi  if  i   12 i 5 ii 2 i 1 i\ 3 k  kZ  Z 3   [  [`  [`` 2 `[ 1 `[c  c[  [ 2 [` 1 `   1 X  X]  ]  ][ 1 [   1 \

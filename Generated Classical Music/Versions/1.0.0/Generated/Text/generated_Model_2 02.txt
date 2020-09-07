@@ -1,0 +1,12 @@
+0, 0, Header, 1, 2, 480
+1, 0, Start_track
+1, 0, Title_t, Generated Music
+1, 0, Text_t, Sample for MIDIcsv Distribution
+1, 0, Copyright_t, This file is in the public domain
+1, 0, Time_signature, 4, 2, 24, 8
+1, 0, Tempo, 500000
+1, 0, Instrument_name_t, A-01
+1, 0, End_track
+2, 0, Start_track
+START READING
+i 2 id 5 d 2  2 if 13 i 3 if 13 i 3 if 13 i 3 if 13 if 8 if 8 f 8 f 8 f 8 h 8 h 8 h 8 f 8 j 8 m 8 j 8 j 8 f 8 d 8 f 8 f 8 f 8 d 8 f 8 h 8 o 8 m 8 p 8 o 8 m 8 m 8 m 8 m 16 h 8  8 f 8  8 m 4 h 4 o 8 p 3 f 3 h 3 f 3 j 3 h 19  3 f 3 d 18 f 11 f 11 f 11 m 11 m 27  5 k 27  5 m 27  5 h 18  3 _ 3 ^ 8 \ 8  8 _ 8 a 8 _ 8 _ 8 \ 8  8 \ 8  8 _ 8  8 ^ 8  8 \ 8 \ 8 \ 8 S 8 \ 8 a 8 _ 8 a 8 a 8 a 8 _ 8 a 8 ^ 8 c 8 ^ 8 ^ 8 ^ 8 ^ 8 a 8 _ 8 _ 8 a 8 a 8 a 8 f 8 f 8 c 8 c 8 e 8 d 8 c 8 d 8 j 8 j 8 j 8 j 8 j 8 m 8 m 8 j 8 m 8 j 8 h 8 h 8 h 8 k 8 m 8 h 8 h 8 h 8 c 8 h 8 h 8 h 8 j 8 j 8 h 8 f 8 f 8 f 8 f 8 h 8 c 8 d 8 f 8 h 8 h 8 h 8 j 8 j 8 h 8 h 8 m 8 o 8 o 8 o 8 k 8 m 8 m 8 m 8 m 8 h 8  8 h 8  8 o 8 k 8 o 8  8 r 8  8 m 8  8 h 8  8 j 8  8 h 8  8 h 8  8 h 8  8 c 8  8 f 8  8 _ 8  8 Z 8  8 _ 8  8 _ 8  8 _ 8  8 _ 8  8 ^ 8  8 c 8  8 f 8  8 h 8  8 r 8  8 r 8  8 m 8  8 j 8  8 k 8  8 j 8  8 f 8  8 h 8  8 f 8  8 h 8  8 m 8  8 f 8  8 h 8  8 m 8  8 p 8  8 v 8  8 o 8  8 p 8  8 r 8  8 r 8  8 t 8  8 u 8  8 r 8  8 r 8  8 r 8  8 m 8  8 j 8  8 k 8  8 o 8  8 p 8  8 r 8  8 o 8  8 o 8  8 m 8  8 o 8  8 r 8  8 k 8  8 m 8  8 h 8  8 j 8  8 o 8  8 m 8  8 f 8  8 f 8  8 j 8  8 d 8  8 d 8  8 c 8  8 h 8  8 c 8  8 c 8  8 d 8  48 _ 18  3 _ 27  5 m 8  8 p 8  8 p 8  8 m 8  8 o 8  8 v 8  8 t 8  8 r 8  8 v 8  8 p 8  8 t 8  8 t 8  8 t 8  8 t 8  8 v 8  3 p 8  8 p 8  8 t 8  8 p 8  8 o 8  8 k 8  8 h 8  8 f 8  8 h 8  8 h 8  8 c 8  8 f 8  8 ^ 8  64 _ 8  8 c 8  1000  3 d 8  8 \ 8  8 \ 8  8 Z 8  8 Z 8  8 Z 8  8 Z 8  8 X 8  8 S 8  8 S 8  8 R 8  8 S 8  8 X 8  8 S 27  8 S 4 N 4 N 4 N 4 N 4 N 4 N 4 N 4 N 4 N 4 N 4 N 4 N 4 N 4 N 4 N 4 N 4 N 4 N 4 N 4 N 4 N 4 N 4 N 4 N 4 N 

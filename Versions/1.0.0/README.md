@@ -100,7 +100,7 @@ This program is responsible for training new neural-networks models and generati
 
 -g
 
-	The program would generate a midi file based on string length and diversity, the file would be found at ./Generated/Midis . It is a requirement that you 	either trained or loaded a model previously
+	The program would generate a midi file based on string length and diversity, the file would be found at ./Generated/Midis . It is a requirement that you either trained or loaded a model previously.
 
 -l
 

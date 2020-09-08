@@ -17,7 +17,7 @@ If you are in windows you can navigate the midicsv directory and use the followi
 
 FOR /l %G in (1,1,<number of files>) DO midicsv ../Dataset/Midis/<filename> (%G).MID ../Dataset/CSVs/<file name> (%G).txt
 
-*its importent to emphesis that the generated CSVs file should be .txt file and not .csv
+*its importent to emphesis that the generated CSVs file should be .txt file and not .csv*
 
 
 # 2. DIRECTORY DESCRIPTION 
@@ -44,7 +44,7 @@ FOR /l %G in (1,1,<number of files>) DO midicsv ../Dataset/Midis/<filename> (%G)
 
 # 3. MANUAL
 
-*Please note that you can have multiple arguments when running any of the programs
+*Please note that you can have multiple arguments when running any of the programs*
 
 ## NAME
 

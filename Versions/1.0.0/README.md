@@ -62,11 +62,17 @@ this program is used to compress midicsv generated text file so the model can le
 
 ###### OPTIONS
 
--c	the program would compress all the text files in ./Dataset/CSVs and upload them to ./Dataset/Compressed
+-c
 
--d	the program would decompress all the text files from ./Dataset/Compressed and upload them to ./Generated/Decompressed
+	The program would compress all the text files in ./Dataset/CSVs and upload them to ./Dataset/Compressed
 
--m	would generate a midi file into ./Generated/Midis/
+-d
+
+	The program would decompress all the text files from ./Dataset/Compressed and upload them to ./Generated/Decompressed
+
+-m
+
+	Would generate a midi file into ./Generated/Midis/
 
 
 ## NAME
@@ -87,20 +93,23 @@ This program is responsible for training new neural-networks models and generati
 
 ###### OPTIONS
 
--t	The program would train a new RNN model, unless a model was loaded beforehand then it would continue to train that model.
-	The model would be loaded into ./Models/ as well as its backup checkpoint starting with "CP_"
-	Training any model would generate a log directory found at ./logs/, you can use TensorBoard to view the model progress.
+-t
 
--g	The program would generate a midi file based on string length and diversity, the file would be found at ./Generated/Midis
-	It is a requirement that you either trained or loaded a model previously
+	The program would train a new RNN model, unless a model was loaded beforehand then it would continue to train that model. The model would be loaded into 	./Models/ as well as its backup checkpoint starting with "CP_". Training any model would generate a log directory found at ./logs/, you can use TensorBoard to
+	view the model progress.
 
--l	Would load a previouslytrained model
+-g
+
+	The program would generate a midi file based on string length and diversity, the file would be found at ./Generated/Midis . It is a requirement that you 	either trained or loaded a model previously
+
+-l
+
+	Would load a previouslytrained model.
 
 
 # 4. KNOWN BUGS
 
-Sometimes when using midicsv to generate the text file, the text would contain (usually in the title name) a
-character that cannot be decoded by UTF-8. Simply remove the character so Covert.py can be run without errors
+Sometimes when using midicsv to generate the text file, the text would contain (usually in the title name) a character that cannot be decoded by UTF-8. Simply remove the character so Covert.py can be run without errors.
 
 # 5. CREDITS
 
